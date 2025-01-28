@@ -2,7 +2,7 @@
 
 ![gi](https://github.com/user-attachments/assets/939d84ae-a394-4752-8dce-c3ac7c191b17)
 
-- The application dynamically simulates money exchanges between customers and stores in a confined area. Stores keep stock of a single type of product like food and customers in the area visit several of the stores to buy their needs according to their shopping lists.   
+- The application dynamically simulates money exchanges between customers and stores in a trading area. Stores keep stock of a single type of product like food and customers in the area visit several of the stores to buy their needs according to their shopping lists.   
 
 ## Customers:
 
