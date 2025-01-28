@@ -25,3 +25,12 @@ The simulation replenishes all stocks in all stores, in interval.
 
 - Stores are drawn as orange
 
+## Products  
+
+There are three types of products: 
+
+• Food
+• Electronics
+• Luxury
+
+Shopping list of a customer can contain arbitrary number of products of these types and a store can have only single type of product in its store.
