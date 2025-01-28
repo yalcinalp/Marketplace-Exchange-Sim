@@ -35,3 +35,17 @@ There are three types of products:
 - Luxury (L)
 
 Shopping list of a customer can contain arbitrary number of products of these types and a store can have only single type of product in its store.
+
+## 🖥️ To Run the Simulation
+
+1. Compile the source code:
+   ```bash
+   javac *.java
+   ```
+
+2. Run the simulation:
+   ```bash
+   java SimulationRunner
+   ```
+
+---
