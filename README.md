@@ -10,11 +10,11 @@ Customers keep a shopping list that the products they will buy. To buy a product
  
 When shopping, a customer can use one of several strategies: 
 
-- **Cheapest**: Find and go to the cheapest store that **have** the **first product** on the list. Upon arrival, if the store is out of stock wait until the product is available again.
+- **Cheapest (Ch)**: Find and go to the cheapest store that **have** the **first product** on the list. Upon arrival, if the store is out of stock wait until the product is available again.
   
-- **Closest**: Find and go to the closest store that **have** the **first product** on the list. Upon arrival, if the store is out of stock, try to go to the nearest closest store that sells the product from there.
+- **Closest (Cl)**: Find and go to the closest store that **have** the **first product** on the list. Upon arrival, if the store is out of stock, try to go to the nearest closest store that sells the product from there.
   
-- **Travelling**: Similar to **Closest** strategy, find the closest store, **buy** anything available and on the list and go to closest store from there that is not visited yet. After visiting all stores, if there are still things to buy on the shopping list, start to visit all stores again with same strategy.
+- **Travelling (Tr)**: Similar to **Closest** strategy, find the closest store, **buy** anything available and on the list and go to closest store from there that is not visited yet. After visiting all stores, if there are still things to buy on the shopping list, start to visit all stores again with same strategy.
 
 ## Stores (in Orange):
 
