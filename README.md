@@ -9,6 +9,8 @@ Customers keep a shopping list that the products they will buy. To buy a product
  
 When shopping, a customer can use one of several strategies: 
 
-- *Cheapest*: Find and go to the cheapest store that *have* the *first product on the list. Upon arrival, if the store is out of stock wait until the product is available again. 
-- *Closest*: Find and go to the closest store that *have* the *first product* on the list. Upon arrival, if the store is out of stock, try to go to the nearest closest store that sells the product from there. 
+- *Cheapest*: Find and go to the cheapest store that *have* the *first product on the list. Upon arrival, if the store is out of stock wait until the product is available again.
+  
+- *Closest*: Find and go to the closest store that *have* the *first product* on the list. Upon arrival, if the store is out of stock, try to go to the nearest closest store that sells the product from there.
+  
 - *Travelling*: Similar to *Closest* strategy, find the closest store, *buy* anything avail- able and on the l
