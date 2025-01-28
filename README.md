@@ -36,7 +36,7 @@ There are three types of products:
 
 Shopping list of a customer can contain arbitrary number of products of these types and a store can have only single type of product in its store.
 
-## 🖥️ To Run the Simulation
+## 🖥️  To Run the Simulation
 
 1. Compile the source code:
    ```bash
