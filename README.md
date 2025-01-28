@@ -15,3 +15,13 @@ When shopping, a customer can use one of several strategies:
   
 - **Travelling**: Similar to **Closest** strategy, find the closest store, **buy** anything available and on the list and go to closest store from there that is not visited yet. After visiting all stores, if there are still things to buy on the shopping list, start to visit all stores again with same strategy.
 
+## Stores
+
+Stores are added to simulation from the start, and they are permanent. A store can have a single type of product and its maximum stock and selling price is defined when created. 
+
+When a customer wants to buy an item and the store is out of stock it should signal it to the customer by **raising an error**  
+
+The simulation replenishes all stocks in all stores, in interval. 
+
+- Stores are drawn as orange
+
