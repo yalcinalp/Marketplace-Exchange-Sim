@@ -5,7 +5,8 @@
 - The application dynamically simulates money exchanges between customers and stores in a trading area. Stores keep stock of a single type of product like food and customers in the area visit several of the stores to buy their needs according to their shopping lists.   
 
 ## UML Diagram:
-[uml.pdf](https://github.com/user-attachments/files/18618938/uml.pdf)
+![image](https://github.com/user-attachments/assets/4fe983a0-0d1e-44e0-8322-202dfd75eb19)
+
 
 ## Customers (in Gray):
 
